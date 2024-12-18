@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_education_educations",
+  "info": {
+    "displayName": "Education",
+    "icon": "layout"
+  },
+  "options": {},
+  "attributes": {
+    "schoolnameoruniversityname": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
